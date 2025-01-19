@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Cityinf.API.props" />
+</Project>

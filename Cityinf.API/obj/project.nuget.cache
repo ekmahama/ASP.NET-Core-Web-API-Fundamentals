@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXnFwTHVowk=",
+  "success": true,
+  "projectFilePath": "/Users/edwardmahama/Documents/Projects/ASP.NET-Core-Web-API-Fundamentals/Cityinf.API/Cityinf.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/edwardmahama/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/edwardmahama/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

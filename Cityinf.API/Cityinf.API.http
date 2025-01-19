@@ -1,0 +1,8 @@
+@hostUrlHttp= http://localhost:5295
+@hostUrlhttps= https://localhost:7107
+
+### Get Weather Forecast
+GET {{hostUrlHttp}}/weatherforecast/ 
+Accept: application/json
+
+### 
